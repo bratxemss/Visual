@@ -1,0 +1,10 @@
+C:\Users\bratx\Desktop\Новая папка (2)\assig\6\6\bin\Debug\6.exe.config
+C:\Users\bratx\Desktop\Новая папка (2)\assig\6\6\bin\Debug\6.exe
+C:\Users\bratx\Desktop\Новая папка (2)\assig\6\6\bin\Debug\6.pdb
+C:\Users\bratx\Desktop\Новая папка (2)\assig\6\6\obj\Debug\6.csproj.AssemblyReference.cache
+C:\Users\bratx\Desktop\Новая папка (2)\assig\6\6\obj\Debug\6.csproj.SuggestedBindingRedirects.cache
+C:\Users\bratx\Desktop\Новая папка (2)\assig\6\6\obj\Debug\_6.Properties.Resources.resources
+C:\Users\bratx\Desktop\Новая папка (2)\assig\6\6\obj\Debug\6.csproj.GenerateResource.cache
+C:\Users\bratx\Desktop\Новая папка (2)\assig\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+C:\Users\bratx\Desktop\Новая папка (2)\assig\6\6\obj\Debug\6.exe
+C:\Users\bratx\Desktop\Новая папка (2)\assig\6\6\obj\Debug\6.pdb
