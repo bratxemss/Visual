@@ -1,0 +1,11 @@
+C:\Users\bratx\Desktop\Новая папка (2)\2\4\4\bin\Debug\4.exe.config
+C:\Users\bratx\Desktop\Новая папка (2)\2\4\4\bin\Debug\4.exe
+C:\Users\bratx\Desktop\Новая папка (2)\2\4\4\bin\Debug\4.pdb
+C:\Users\bratx\Desktop\Новая папка (2)\2\4\4\obj\Debug\4.csproj.AssemblyReference.cache
+C:\Users\bratx\Desktop\Новая папка (2)\2\4\4\obj\Debug\4.csproj.SuggestedBindingRedirects.cache
+C:\Users\bratx\Desktop\Новая папка (2)\2\4\4\obj\Debug\Individual_Assignment_4.Form1.resources
+C:\Users\bratx\Desktop\Новая папка (2)\2\4\4\obj\Debug\_4.Properties.Resources.resources
+C:\Users\bratx\Desktop\Новая папка (2)\2\4\4\obj\Debug\4.csproj.GenerateResource.cache
+C:\Users\bratx\Desktop\Новая папка (2)\2\4\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\Users\bratx\Desktop\Новая папка (2)\2\4\4\obj\Debug\4.exe
+C:\Users\bratx\Desktop\Новая папка (2)\2\4\4\obj\Debug\4.pdb
