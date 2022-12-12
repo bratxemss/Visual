@@ -1,0 +1,11 @@
+C:\Users\bratx\Desktop\Новая папка (2)\assig\MM\MM\obj\Debug\MM.csproj.AssemblyReference.cache
+C:\Users\bratx\Desktop\Новая папка (2)\assig\MM\MM\obj\Debug\MM.csproj.SuggestedBindingRedirects.cache
+C:\Users\bratx\Desktop\Новая папка (2)\assig\MM\MM\obj\Debug\WindowsFormsApp22.Form1.resources
+C:\Users\bratx\Desktop\Новая папка (2)\assig\MM\MM\obj\Debug\MM.Properties.Resources.resources
+C:\Users\bratx\Desktop\Новая папка (2)\assig\MM\MM\obj\Debug\MM.csproj.GenerateResource.cache
+C:\Users\bratx\Desktop\Новая папка (2)\assig\MM\MM\obj\Debug\MM.csproj.CoreCompileInputs.cache
+C:\Users\bratx\Desktop\Новая папка (2)\assig\MM\MM\bin\Debug\MM.exe.config
+C:\Users\bratx\Desktop\Новая папка (2)\assig\MM\MM\bin\Debug\MM.exe
+C:\Users\bratx\Desktop\Новая папка (2)\assig\MM\MM\bin\Debug\MM.pdb
+C:\Users\bratx\Desktop\Новая папка (2)\assig\MM\MM\obj\Debug\MM.exe
+C:\Users\bratx\Desktop\Новая папка (2)\assig\MM\MM\obj\Debug\MM.pdb
